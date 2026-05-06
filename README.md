@@ -4,7 +4,7 @@ A professional showcase of my work as a **UX/UI Designer** and **Software Develo
 
 ## 🌐 Live Demo
 You can view the live site here: 
-[mgcinishaunportfolio.netlify.app]
+[https://mgcinishaunportfolio.netlify.app/]
 
 ---
 
