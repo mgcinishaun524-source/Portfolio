@@ -4,7 +4,7 @@ A professional showcase of my work as a **UX/UI Designer** and **Software Develo
 
 ## 🌐 Live Demo
 You can view the live site here: 
-**[mgcinishaun524-source.github.io/Portfolio/](mgcinishaunportfolio.netlify.app)**
+[mgcinishaunportfolio.netlify.app]
 
 ---
 
@@ -35,4 +35,4 @@ I specialize in a "cinematic" and aggressive aesthetic, focusing on:
 ---
 
 ## 📬 Contact & Connect
-*   **GitHub:** [@mgcinishaun524-source](mgcinishaunportfolio.netlify.app)
+*   **GitHub:** [@mgcinishaun524-source]
